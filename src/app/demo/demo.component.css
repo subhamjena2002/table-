@@ -1,0 +1,14 @@
+.search-bar {
+    margin: 10px;
+  }
+  
+  label {
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+  input{
+    border-radius: 10px;
+    height: 30px;
+  }
+  
